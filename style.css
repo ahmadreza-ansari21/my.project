@@ -1,0 +1,13 @@
+div
+{
+    
+    border: 3px solid black;
+}
+
+div{
+
+background-attachment: fixed;
+background-image: url("image/00.jpg");
+background-repeat: no-repeat;
+background-size: contain;
+}
