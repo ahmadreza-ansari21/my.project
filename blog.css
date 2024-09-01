@@ -1,9 +1,19 @@
 p{
+    /* text-transform: capitalize;
+    text-indent: 30px;
+    letter-spacing: 5px; */
+    line-height: 2;
+    /* word-spacing: 20px; */
+    
+}
+h1{
+text-shadow:5px 15px;
 
-border:2px solid yellowgreen ;
-padding: 100px;
-margin: 20px;
-outline: 2px solid red;
-outline-offset: 15px;
-
+}
+.ss{
+width: 150px;
+overflow: hidden;
+text-overflow: ellipsis;
+border: 3px solid red;
+white-space: nowrap;
 }
