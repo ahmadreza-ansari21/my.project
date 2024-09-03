@@ -1,19 +1,30 @@
-p{
-    /* text-transform: capitalize;
-    text-indent: 30px;
-    letter-spacing: 5px; */
-    line-height: 2;
-    /* word-spacing: 20px; */
+ul {
+
+    background-color: skyblue;
+    list-style-type: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    
     
 }
-h1{
-text-shadow:5px 15px;
 
+li {
+    display: inline-block;
+    padding: 20px;
+    font-size: 15px;
+    border-right: 1px solid #ddd;
+    
+    
+        
 }
-.ss{
-width: 150px;
-overflow: hidden;
-text-overflow: ellipsis;
-border: 3px solid red;
-white-space: nowrap;
+
+.ss:hover{
+    
+    background-color: deeppink;
+    
+}
+a{
+    text-decoration: none;
+    
 }
