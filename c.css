@@ -1,0 +1,29 @@
+th,td{
+    padding: 20px;
+    color: blue;
+    border-bottom: 1px solid #ddd;
+}
+
+ /* tr:nth-child(even){
+
+background-color: #ddd;
+
+}  */
+
+table{
+
+
+border-collapse: collapse;
+
+text-align: left;
+}
+
+tr:hover{
+    cursor: pointer;
+    background-color: #ddd;
+    text-shadow: #ddd;
+}
+
+.ss{
+    color: red;
+}
