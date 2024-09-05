@@ -1,0 +1,18 @@
+.box {
+    background-color: black;
+    width: 70%;
+
+}
+
+p {
+    padding: 6em;
+    color: white;
+}
+
+
+.box-2 {
+    background-color: black;
+    width: 70rem;
+    height: 15rem;
+    color: white;
+}
