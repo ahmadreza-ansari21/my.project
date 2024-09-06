@@ -1,5 +1,7 @@
 body {
-   background-color: black;
+   /* background-color: black; */
+background: linear-gradient(80deg,red 20%,tomato 45%,black  );
+
 }
 
 
@@ -30,6 +32,8 @@ span {
 div {
    width: 25rem;
    padding: 14em 42rem;
+   transition: font 3s, background-color 10s;
+
 }
 
 
@@ -55,4 +59,3 @@ input {
    padding: 12px;
 
 }
-
