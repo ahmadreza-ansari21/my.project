@@ -1,0 +1,58 @@
+body {
+   background-color: black;
+}
+
+
+form {
+
+   text-align: center;
+   background-color: #ddd;
+   border-radius: 5px;
+   height: 30rem;
+}
+
+a {
+   text-decoration: none;
+   color: black;
+}
+
+
+h2 {
+   color: brown;
+   padding: 20px;
+}
+
+span {
+   color: blue;
+}
+
+
+div {
+   width: 25rem;
+   padding: 14em 42rem;
+}
+
+
+button {
+   background-color: skyblue;
+   width: 6rem;
+   border-radius: 5px;
+}
+
+
+
+
+input {
+   border: none;
+   border-bottom: 5px black;
+   margin: 22px;
+   padding: 4px;
+
+}
+
+.email {
+
+   padding: 12px;
+
+}
+
