@@ -1,0 +1,125 @@
+* {
+
+    box-sizing: border-box;
+}
+
+body {
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    max-width: 500px;
+    min-width: 200px;
+    background-color: #bc9e9e;
+    width: 40%;
+    padding: 30px 20px;
+    border-radius: 5px;
+    margin: auto;
+    box-shadow:1px 3px 5px 2px;
+
+}
+
+.sabt {
+    margin-bottom: 35px;
+    width: 8%;
+    text-align: left;
+}
+
+#select {
+    width: 80%;
+    height: 30px;
+}
+
+button {
+    width: 90%;
+    background-color: green;
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid black;
+
+}
+
+textarea {
+    resize: none;
+    width: 90%;
+    border-radius: 3px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Styling the Body element 
+i.e. Color, Font, Alignment */
+/* body {
+    background-color: #05c46b;
+    font-family: Verdana;
+    text-align: center;
+} */
+
+/* Styling the Form (Color, Padding, Shadow) */
+/* form {
+    background-color: #fff;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+} */
+
+/* Styling form-control Class */
+/* .form-control {
+    text-align: left;
+    margin-bottom: 25px;
+} */
+
+/* Styling form-control Label */
+/* .form-control label {
+    display: block;
+    margin-bottom: 10px;
+} */
+
+/* Styling form-control input, 
+select, textarea */
+/* .form-control input,
+.form-control select,
+.form-control textarea {
+    border: 1px solid #777;
+    border-radius: 2px;
+    font-family: inherit;
+    padding: 10px;
+    display: block;
+    width: 95%;
+} */
+
+/* Styling form-control Radio 
+button and Checkbox */
+/* .form-control input[type="radio"],
+.form-control input[type="checkbox"] {
+    display: inline-block;
+    width: auto;
+} */
+
+/* Styling Button */
+/* button {
+    background-color: #05c46b;
+    border: 1px solid #777;
+    border-radius: 2px;
+    font-family: inherit;
+    font-size: 21px;
+    display: block;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+} */
