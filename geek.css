@@ -12,10 +12,10 @@ h1 {
 }
 
 form {
-    max-width: 500px;
+    /* max-width: 500px; */
     min-width: 200px;
     background-color: #bc9e9e;
-    width: 40%;
+    width: 35%;
     padding: 30px 20px;
     border-radius: 5px;
     margin: auto;
@@ -27,6 +27,10 @@ form {
     margin-bottom: 35px;
     width: 8%;
     text-align: left;
+}
+.sabt-1{
+
+    width: 50px;
 }
 
 #select {
