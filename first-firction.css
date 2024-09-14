@@ -1,0 +1,25 @@
+body{
+box-sizing: border-box;
+background-color: black;
+
+}
+
+
+.list-img{
+    display: grid;
+    grid-template-columns: 20fr  20fr 20fr 20fr;
+    grid-template-rows: 100px 100px;
+   justify-content: center;
+  
+   row-gap: 10px;
+   grid-column: 200px;
+}
+
+  img{
+    width: 100px;
+    height: 100px;
+    border: 3px solid #fff;
+    border-radius: 7px;
+    object-fit: cover;
+   
+}
