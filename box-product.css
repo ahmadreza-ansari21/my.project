@@ -32,3 +32,22 @@ figure{
   display: grid;
   text-align: center;
 }
+
+
+
+@media screen and (max-width:992px){
+  .box-product{
+    grid-template-columns: repeat(3,1fr);
+  }
+
+  
+}
+
+
+@media screen and (max-width:600px){
+  .box-product{
+    grid-template-columns: repeat(2,1fr);
+  }
+
+  
+}
